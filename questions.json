@@ -1,0 +1,107 @@
+{
+  "questions": [
+    {
+      "q": "Em hãy cho biết, tuỳ chọn nào sau đây là thành phần quan trọng nhất được sử dụng để chạy các ứng dụng?",
+      "options": ["Bộ nhớ", "Thẻ SIM", "Bộ lưu trữ", "Card màn hình"],
+      "a": "Bộ nhớ"
+    },
+    {
+      "q": "EM hãy cho biết, trong các tuỳ chọn sau, tuỳ chọn nào là phương pháp cho phép truy cập và cập nhật các tập tin trực tuyến?",
+      "options": ["Ổ cứng ngoài", "Email", "Bộ lưu trữ USB", "Lưu trữ đám mây"],
+      "a": "Lưu trữ đám mây"
+    },
+    {
+      "q": "Em hãy cho biết, loại kết nối không dây nào sau đây sẽ cho phép em tải hình ảnh từ máy ảnh vào máy tính?",
+      "options": ["VGA", "Bluetooth", "HDMI", "RCA"],
+      "a": "Bluetooth"
+    },
+    {
+      "q": "Em hãy cho biết, trong các tuỳ chọn sau, tuỳ chọn là loại lưu trữ dữ liệu được truy cập từ xa thông qua kết nối internet?",
+      "options": ["Ổ cứng ngoài", "Lưu trữ đám mấy", "Đĩa CD", "Bộ lưu trữ USB"],
+      "a": "Lưu trữ đám mây"
+    },
+    {
+      "q": "Hầu hết các điện thoại thông minh đều có các tuỳ chọn gói dữ liệu di động. Em hãy cho biết, tuỳ chọn nào sau đây mô tả chính xác dữ liệu di động là gì?",
+      "options": ["Em được phân bố bao nhiêu thời gian để gọi điện thoại", "Truy cập internet không dây có tính phí, được đo bằng mức tiêu thụ dữ liệu", "Em được phép gửi bao nhiêu tin nhắn văn bản", "Điện thoại của em có bao nhiêu bộ nhớ"],
+      "a": "Truy cập internet không dây có tính phí, được đo bằng mức tiêu thụ dữ liệu"
+    },
+    {
+      "q": "Các thiết bị di động có dung lượng bộ nhớ hạn chế so với máy tính để bàn. Em hãy cho biết, tuỳ chọn nào sau đây có khả năng làm cho thiết bị di động của em hết dung lượng bộ nhớ?",
+      "options": ["Thường xuyên quên xoá bộ nhớ đệm", "Truyền phát các video HD", "Cài quá nhiều game", "Sạc thiết bị di động trước khi hết pin"],
+      "a": "Cài quá nhiều game"
+    },
+    {
+      "q": "Những thông tin nào dưới đây là một phần của dấu chân kỹ thuật số?",
+      "options": ["Điểm số của bạn ở trường", "Những lượt/nội dung tìm kiếm mà bạn thực hiện trên internet", "Số đôi giày mà bạn sở hữu", "Những điều bạn nói trong tin nhắn dạng chữ vơi bạn bè"],
+      "a": "Những lượt/nội dung tìm kiếm mà bạn thực hiện trên internet"
+    },
+    {
+      "q": "Bạn đặt mau một game mới, nhưng khi nhận được thì phát hiện rằng đó là một bản sao chép trái phép, không phải game chính hãng. Là một công dân tốt trên môi trường số, đâu là cách phản ứng thích hợp?",
+      "options": ["Loan trên mạng xã hội để mọi người biêt nơi mua được bản sao giá rẻ của trò chơi đó", "Chạy phần mềm chống virus cho đĩa game rồi mới cài đặt, vì có thể có virus trong game", "Trước khi cài đặt, thiết đặt, thiết lập tường lửa cho máy tính để chặn kêt nối đến internet", "Yêu cầu hoàn tiền và thông báo cho của hàng rằng game bạn nhận được không phải loại chính hãng"],
+      "a": "Yêu cầu hoàn tiền và thông báo cho của hàng rằng game bạn nhận được không phải loại chính hãng"
+    },
+    {
+      "q": "Em hãy cho biết, tuỳ chọn nào sau đây là dịch vụ dựa trên internet?",
+      "options": ["Bách khoa toàn thư (Encyclopedia)", "Chia đôi màn hình chơi game (Split-screen gaming)", "Thư điện tử (Email)", "Microsoft"],
+      "a": "Thưn điện tử (Email)"
+    },
+    {
+      "q": "Đâu là một dạng phép xã giao trên môi trường kỹ thuật số?",
+      "options": ["Đưa sự hài hước và châm biếm vào tin nhắn", "Dùng các nguồn giả trên mạng", "Đăng các thông điệp có tính phỉ báng trên mạng", "Duy trì tính tích cực trong tin nhắn và bài đăng của bạn"],
+      "a": "Duy trì tính tích cực trong tin nhắn và bài đăng của bạn"
+    },
+    {
+      "q": "Thông tin nào là một phần của dấu chân kỹ thuật số (digital footprint) của bạn?",
+      "options": ["Bưu thiếp bạn gửi cho một người bạn qua thư", "Biên lai mua hàng tại một cửa hàng địa phương", "Bài đăng trên mạng xã hội", "Nhạc được lưu trên ở cứng máy tính"],
+      "a": "Bài đăng trên mạng xã hội"
+    },
+    {
+      "q": "Khi bắt đầu làm dự án nghiên cứu, giáo viên đưa cho bạn http://orchestramusic.org để sử dụng. Thứ mà giáo viên đưa cho bạn là gì?",
+      "options": ["Một URL", "Tiêu đề một trang", "Mã nguồn", "Một tác giả"],
+      "a": "Một URL"
+    },
+    {
+      "q": "Khi nghiên cứu để làm bài tập, bạn tìm thấy một trang web có thông tin liên quan mà bạn muốn dùng. Giáo viên yêu cầu bnj đính kèm URL đó vào bài nộp. Câu nào bên dưới là ví dụ về một URL?",
+      "options": ["com.CoolPlaces.www", "CoolPlaces.com", "www.coolplaces", "http://www.coolplaces.com/visit-the-pyramids"],
+      "a": "http://www.coolplaces.com/visit-the-pyramids"
+    },
+    {
+      "q": "Bạn được bạn của mình giới thiệu một trang web mới cho phép chơi game trực tuyến miễn phí. Đó là loại trang web gì?",
+      "options": ["Giao tiếp", "Thông tin", "Giải trí", "Mạng xã hội"],
+      "a": "Giải trí"
+    },
+    {
+      "q": "Bạn muốn mua một vật phẩm mới cho trò chơi trực tuyến yêu thích của mình và vật phẩm đó sẽ được khuyến mãi trong 5 phút nữa. Bạn đã mở sẵn trang đó ra chờ. Khi hết 5 phút đó, bạn nên làm gì để nhanh chóng hiển thị mức giá mới?",
+      "options": ["Gửi email cho công ty bán hàng", "Đánh dấu trang đó", "In trang đó ra", "Tải lại trang"],
+      "a": "Tải lại trang"
+    },
+    {
+      "q": "Nếu muốn lưu trang web để quay lại sau thì bạn có thể làm gì?",
+      "options": ["Đánh dấu trang (Bookmark) cho URL đó", "Cố nhớ vào lần đăng nhập tới", "Nhờ ai đó gợi nhắc cho bạn", "Nói cho một người bạn biết"],
+      "a": "Đánh dấu trang (Bookmark) cho URL đó"
+    },
+    {
+      "q": "Bạn đang tìm một số thông tin trên mạng, nhưng kết quả trả về không cung cấp thông tin mà bạn cần. Bạn nên làm gì?",
+      "options": ["Kiểm tra kết nối internet của bạn", "Dùng từ đồng nghĩa để thay đổi thuật ngữ tìm kiếm", "Đóng trình duyệt của bạn", "Bấm vào đường liên kết của những kết quả quảng cáo"],
+      "a": "Dùng từ đồng nghĩa để thay đổi thuật ngữ tìm kiếm"
+    },
+    {
+      "q": "Bạn đang đọc một bài viết trên trang web. Bên dưới bài viết đó có nhiều đường liên kết cung cấp thêm thông tin ngoài. Bạn nên bấm vào liên kết nào để tìm hiểu về người viết bài báo?",
+      "options": ["Chính sách quyền riêng tư (Privacy policy)", "Điều khoản sử dụng (Terms of use)", "Tác giả (Author)", "Phiên bản di động (Mobile version)"],
+      "a": "Tác giả (Author)"
+    },
+    {
+      "q": "Em hãy cho biết, tuỳ chọn nào sau đây là ví dụ về công cụ tìm kiếm?",
+      "options": ["Google", "Firefox", "Safari", "Internet Explorer"],
+      "a": "Google"
+    },
+    {
+      "q": "Bạn hãy cho biết, tuỳ chọn nào sau đây là ưu điểm của điện toán đám mây?",
+      "options": ["Truy cập bất cứ nơi nào có kết nối internet", "Cần có kết nối internet để hoạt động","Dung lượng lưu trữ có trả phí"],
+      "a": "Truy cập bất cứ nơi nào có kết nối internet"
+    }
+  ],
+
+
+"mysteryAnswer": "báo cáo"
+}
