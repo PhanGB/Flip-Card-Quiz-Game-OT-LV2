@@ -43,7 +43,7 @@
     {
       "q": "Em hãy cho biết, tuỳ chọn nào sau đây là dịch vụ dựa trên internet?",
       "options": ["Bách khoa toàn thư (Encyclopedia)", "Chia đôi màn hình chơi game (Split-screen gaming)", "Thư điện tử (Email)", "Microsoft"],
-      "a": "Thưn điện tử (Email)"
+      "a": "Thư điện tử (Email)"
     },
     {
       "q": "Đâu là một dạng phép xã giao trên môi trường kỹ thuật số?",
@@ -103,5 +103,5 @@
   ],
 
 
-"mysteryAnswer": "báo cáo"
+"mysteryAnswer": "bóng bàn"
 }
